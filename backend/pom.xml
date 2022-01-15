@@ -15,7 +15,7 @@
 	<name>dsmovie</name>
 	<description>Projeto criado na Semana do Spring React</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
